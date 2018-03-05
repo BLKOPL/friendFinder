@@ -1,0 +1,31 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "find friends, yay!",
+  "main": "server.js",
+  "scripts": {
+    "test": "is this damn thing working?",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BLKOPL/friendFinder.git"
+  },
+  "keywords": [
+    "friendly",
+    "friends",
+    "friendship",
+    "international",
+    "relations"
+  ],
+  "author": "Maria Seneca",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BLKOPL/friendFinder/issues"
+  },
+  "homepage": "https://github.com/BLKOPL/friendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
